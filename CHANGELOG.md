@@ -1,4 +1,9 @@
-## 0.1.0
+## 1.0.0
 
-- Initial MVP with pure Dart HTTP client, memory cache, TTL, retry policy,
-  timeout handling, typed parsing, interceptors, and custom errors.
+- Initial release of Sthebix
+- Smart HTTP request engine with:
+  - In-memory cache with TTL
+  - Retry with exponential backoff
+  - Timeout handling
+  - Custom error handling
+  - Interceptors and logging support
