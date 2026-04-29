@@ -1,0 +1,24 @@
+name: sthebix
+description: Smart HTTP request engine for Dart with built-in cache, retry, and resilient error handling.
+version: 1.0.0
+
+homepage: https://github.com/tuusuario/sthebix
+repository: https://github.com/tuusuario/sthebix
+issue_tracker: https://github.com/tuusuario/sthebix/issues
+
+topics:
+  - http
+  - networking
+  - cache
+  - retry
+  - api-client
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  http: ^1.6.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.31.1
